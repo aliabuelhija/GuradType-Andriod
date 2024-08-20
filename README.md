@@ -10,11 +10,10 @@ GuardType is an Android application designed to enhance digital safety for child
 
 ## Demo Video
 
-Watch the demo video of GuardType by clicking the link below:
+Watch the demo video of GuardType
+https://github.com/user-attachments/assets/101283c6-b20e-4170-9777-ec8b4a5a61fc
 
-[GuardType App Promo Video](https://github.com/aliabuelhija/GuradType-Andriod/blob/master/GuardType%20app%20Promo%20video%20(1).mp4)
 
-*Note: Click on the video link to watch it directly on GitHub.*
 
 ## Technologies Used
 
