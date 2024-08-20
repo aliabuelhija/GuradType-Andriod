@@ -24,7 +24,6 @@ Watch the demo video of GuardType by clicking the link below:
 - **BERT**: Integrated model for content analysis.
 - **Swagger**: Used for API documentation.
 - **Trello**: Used for project management.
-- **JUNIT5**: Testing framework used for unit tests.
 
 ## Getting Started
 
